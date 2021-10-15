@@ -7,7 +7,7 @@
   <MyIP/>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
-  <Support/>
+  <Support>https://forums.unraid.net/topic/114862-support-lomorage-photo-backupmanagement-app/</Support>
   <Project>https://github.com/lomorage/lomo-docker</Project>
   <Overview>Lomorage enables you to backup photos / videos from any devices to your self-hosted server, and intelligently manages these personal assets via AI. Run the Lomorage server at your home, download mobile client to save the memories, and enjoy the moments.</Overview>
   <Category>Backup: MediaApp:Video MediaApp:Photos MediaServer:Video MediaServer:Photos Status:Stable</Category>
