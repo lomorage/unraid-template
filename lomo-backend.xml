@@ -13,7 +13,7 @@
   <Category>Backup: MediaApp:Video MediaApp:Photos MediaServer:Video MediaServer:Photos Status:Stable</Category>
   <WebUI/>
   <TemplateURL/>
-  <Icon/>
+  <Icon>https://lomorage.com/img/logo.png</Icon>
   <ExtraParams>--user=99:100</ExtraParams>
   <PostArgs>192.168.1.28 8000 8001</PostArgs>
   <CPUset/>
